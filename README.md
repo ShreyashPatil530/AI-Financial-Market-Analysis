@@ -41,5 +41,5 @@ AI-Financial-Market-Analysis/
 
 ## 🔹 Author
 👤 **Shreyash Patil**  
-📧 [Your Email Here]  
-🔗 [Your LinkedIn / Portfolio link]
+📧 shreyashpatil530@gmail.com
+
