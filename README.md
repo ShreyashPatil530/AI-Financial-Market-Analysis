@@ -26,7 +26,7 @@ AI-Financial-Market-Analysis/
 ## 🔹 How to Run
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/shreyshpatil530/AI-Financial-Market-Analysis.git
+   git clone https://github.com/ShreyashPatil530/AI-Financial-Market-Analysis
    ```
 2. Open the project folder in Jupyter Notebook or VS Code.  
 3. Install dependencies:  
